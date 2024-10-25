@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DatePicker.qml</file>
+        <file>MessageDialog.qml</file>
+    </qresource>
+</RCC>
